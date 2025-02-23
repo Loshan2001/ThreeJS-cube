@@ -1,1 +1,1 @@
-![Alt text](images/my-image.png)
+![Alt text](images/cube.jpg)
